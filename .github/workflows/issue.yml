@@ -1,4 +1,4 @@
-name: issue trigger
+name: issue Event trigger
 on: issues
 jobs:
   output-info:
