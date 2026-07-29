@@ -1,5 +1,5 @@
 #lint test deploy
-Name: 04-project
+name: 04-project
 on: push
 jobs:
   deploy:
